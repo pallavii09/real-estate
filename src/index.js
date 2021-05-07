@@ -18,7 +18,7 @@ ReactDOM.render(
   <React.StrictMode>
   
     <Navbar />
-    <HomeBanner />
+    {/* <HomeBanner />  */}
     <ContentSection   heading='Shapoorji BKC 28' description='BKC 28 is the most awaited project in Bandra East, Mumbai by Shapoorji Pallonji and Vakratunda Group. The project offers lavish 2 BHK apartments in varied sizes with state of art amenities. The project is situated at a 5 Minutes distance from Kalanagar junction and BKC.' />
     <About src={IMAGES.ABOUT}  heading='BKC 28 Project Key Highlights' span='Overview' description='22 storied tower# Double heighted entrance lobby Premium Vastu compliant* homes 4 high speed elevators French windows for maximum views 4 units to a core Car charging facility. Roof top amenities with sea view Why Khernagar- Bandra East: Bandra East’s property market has beneﬁted tremendously from the many infrastructural upgrades taking place around it as well as its proximity to Mumbai’s biggest and most prominent CBD - BKC. It has brought to prominence smaller realty micro markets like Khernagar- Bandra East,  thus unlocking real estate opportunities and value. The upcoming underground metro line will boost this market further. Khernagar- Bandra East  offers an opportunity to own a home at a fairly lower capital value compared to other projects in the vicinity while enjoying the advantages of a similar geographical location.' />
 <div class="Amenities-Section">
