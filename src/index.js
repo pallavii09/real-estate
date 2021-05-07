@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Navbar from './components/Navbar';
-import HomeBanner from './components/HomeBanner';
+//import HomeBanner from './components/HomeBanner';
 import ContentSection from './components/ContentSection';
 import About from './components/About';
 import Amenities from './components/Amenities';
@@ -13,7 +13,6 @@ import Disclaimer from './components/Disclaimer';
 import './components/style.css';
 import IMAGES from './components/Image';
 import reportWebVitals from './reportWebVitals';
-
 
 ReactDOM.render(
   <React.StrictMode>
